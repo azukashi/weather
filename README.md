@@ -1,5 +1,6 @@
 # Weather
 Weather App created using Vanilla JavaScript, and Openweather API
+![Image](https://gifaldyazkaa.github.io/images/weather.png)
 
 ## Visit it
 - Visit this Weather App at **[Here!](https://gifaldyazkaa.github.io/weather)**
