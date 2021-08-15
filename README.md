@@ -1,12 +1,27 @@
-# Weather
-Weather App created using Vanilla JavaScript, and Openweather API
-![Image](https://gifaldyazkaa.github.io/images/weather.png)
+# Weather App
 
-## Visit it
-- Visit this Weather App at **[Here!](https://gifaldyazkaa.github.io/weather)**
+⛅ Static Weather App created using Vanilla JavaScript, and Openweather API
+![Preview Image](https://cdn.upload.systems/uploads/QusUO02n.png)
 
-## Usage
-- You can easily see temperatures and weather in your place by `searching your city`
+# Tech Stack
 
-## Contributing
-- See contributing terms [here](https://github.com/gifaldyazkaa/weather/blob/master/CONTRIBUTING.md)
+- HTML & CSS
+- Vanilla Javascript
+- Openweather API
+- GeoIP Lookup
+- Unsplash Source
+
+# Contributing
+
+We're open to any contribution! Feel free to Contributing and Submitting a Pull Request!
+
+- [Fork the Repository!](https://github.com/gifaldyazkaa/weather/fork)
+- Clone your fork: `git clone https://github.com/your-username/weather.git`
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -am 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request :D
+
+# License
+
+This Project is Under [MIT License](https://github.com/gifaldyazkaa/weather/blob/master/LICENSE) &copy; Gifaldy Azka
