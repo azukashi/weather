@@ -1,15 +1,16 @@
 # Weather App
 
 ⛅ Static Weather App created using Vanilla JavaScript, and Openweather API
+
 [![Preview Image](https://cdn.upload.systems/uploads/DBBw9tff.png)](https://gifaldyazka.is-a.dev/weather)
 
 # Tech Stack
 
 - HTML & CSS
 - Vanilla Javascript
-- Openweather API
-- GeoIP Lookup
-- Unsplash Source
+- [Openweather API](https://openweathermap.org/api)
+- [GeoIP Lookup](https://geoiplookup.io/)
+- [Unsplash Source](https://source.unsplash.com/)
 
 # Contributing
 
