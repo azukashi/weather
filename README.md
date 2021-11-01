@@ -1,8 +1,12 @@
+<div align="center">
+
 # Weather App
 
 ⛅ Static Weather App created using Vanilla JavaScript, and Openweather API
 
 [![Preview Image](https://cdn.upload.systems/uploads/DBBw9tff.png)](https://gifaldyazka.is-a.dev/weather)
+  
+</div>
 
 # Tech Stack
 
